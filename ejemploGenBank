@@ -1,0 +1,73 @@
+<div class="sequence">
+<a name="locus_NM_001354823.2"></a><div class="localnav"><ul class="locals"><li><a href="#comment_NM_001354823.2" title="Jump to the comment section of this record">Comment</a></li><li><a href="#feature_NM_001354823.2" title="Jump to the feature table of this record">Features</a></li><li><a href="#sequence_NM_001354823.2" title="Jump to the sequence of this record">Sequence</a></li></ul><ul class="nextprevlinks"><li class="next"><a href="#locus_1707761927" title="Jump to NM_001354823.2">Next</a></li><li class="prev"><a href="#locus_1707761927" title="Jump to NM_001354823.2">Previous</a></li></ul></div>
+<pre class="genbank">LOCUS       NM_001354823             750 bp    mRNA    linear   PLN 28-DEC-2022
+DEFINITION  Glycine max auxin-induced protein X15 (LOC100815976), mRNA.
+ACCESSION   NM_001354823
+VERSION     NM_001354823.2
+KEYWORDS    RefSeq.
+SOURCE      Glycine max (soybean)
+  ORGANISM  <a href="/Taxonomy/Browser/wwwtax.cgi?id=3847">Glycine max</a>
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae; 50
+            kb inversion clade; NPAAA clade; indigoferoid/millettioid clade;
+            Phaseoleae; Glycine; Glycine subgen. Soja.
+REFERENCE   1  (bases 1 to 750)
+  AUTHORS   McClure BA, Hagen G, Brown CS, Gee MA and Guilfoyle TJ.
+  TITLE     Transcription, organization, and sequence of an auxin-regulated
+            gene cluster in soybean
+  JOURNAL   Plant Cell 1 (2), 229-239 (1989)
+   PUBMED   <a href="https://www.ncbi.nlm.nih.gov/pubmed/2485235">2485235</a>
+<a name="comment_NM_001354823.2"></a>COMMENT     VALIDATED <a href="https://www.ncbi.nlm.nih.gov/RefSeq/">REFSEQ</a>: This record has undergone validation or
+            preliminary review. The reference sequence was derived from
+            <a href="/nuccore/ACUP04002321.1">ACUP04002321.1</a>.
+            
+            On Jul 23, 2019 this sequence version replaced <a href="https://www.ncbi.nlm.nih.gov/nuccore/NM_001354823.1">NM_001354823.1</a>.
+            
+            ##Evidence-Data-START##
+            Transcript is intronless :: AW569759.1, BE473770.1 [ECO:0000345]
+            ##Evidence-Data-END##
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-750               ACUP04002321.1     200577-201326
+<a name="feature_NM_001354823.2"></a>FEATURES             Location/Qualifiers
+     source          1..750
+                     /organism="Glycine max"
+                     /mol_type="mRNA"
+                     /cultivar="Williams 82"
+                     /db_xref="taxon:<a href="https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=3847">3847</a>"
+                     /chromosome="6"
+                     /map="6"
+     <a href="/nuccore/NM_001354823.2?from=1&amp;to=750">gene</a>            1..750
+                     /gene="LOC100815976"
+                     /note="auxin-induced protein X15"
+                     /db_xref="GeneID:<a href="https://www.ncbi.nlm.nih.gov/gene/100815976">100815976</a>"
+     <a href="/nuccore/NM_001354823.2?from=1&amp;to=750">exon</a>            1..750
+                     /gene="LOC100815976"
+                     /inference="alignment:Splign:2.1.0"
+     <a href="/nuccore/NM_001354823.2?from=102&amp;to=104">misc_feature</a>    102..104
+                     /gene="LOC100815976"
+                     /note="upstream in-frame stop codon"
+     <a href="/nuccore/NM_001354823.2?from=273&amp;to=521">CDS</a>             273..521
+                     /gene="LOC100815976"
+                     /codon_start=1
+                     /product="auxin-induced protein X15"
+                     /protein_id="<a href="/protein/1236589328">NP_001341752.1</a>"
+                     /db_xref="GeneID:<a href="https://www.ncbi.nlm.nih.gov/gene/100815976">100815976</a>"
+                     /translation="MGFRLPGIRKASNAVDAPKGYLAVYVGEKMKRFVIPVSYMNQPS
+                     FQDLLTQAEEEFGYDHPMGGLTIPCSEEVFQRITCCLN"
+ORIGIN      
+<a name="sequence_NM_001354823.2"></a>        1 cactcgataa gcagggatag tattatctta attcttgaga aagtcctcaa gacaacacca
+       61 tatgcccttg tctctaagtt ggtcccattt atcttatctc atagctctcc ttcaccaata
+      121 attcatacag ccgatgtttt cttacatatg cttttctata tatatattca tggcagcaag
+      181 catttagcac caacacaaat cattcacatc ccaaagcatt caaaattctc aacacttttc
+      241 ttaagaaatt ctcttctcaa atcaatacaa caatgggttt tcgtttacct ggtatcagaa
+      301 aggcatcaaa tgcggtggat gcgccaaaag gctatcttgc agtctatgtc ggggagaaaa
+      361 tgaagcggtt tgtgattccc gtatcataca tgaaccaacc ttcattccag gacttgttga
+      421 ctcaagctga ggaagagttt ggatatgatc atcccatggg tggcctcaca attccttgca
+      481 gtgaagaggt cttccaacgt ataacatgtt gcttgaattg acaataaatc tcacactgta
+      541 ggagactaac atagattagt gaagacattt ggtacaatag gcgtcttctc accttgtaaa
+      601 aatctccgtt tcttgagcag gaagggggaa ggaccattag aatgacagat tcatatttca
+      661 tggagcatgt ctctgtgtgt ttaagcaaca cgctgtatca ttgtagtgac taccaataca
+      721 tatttttata gagaattggt ttctcactca
+//</pre>
+<a name="slash_NM_001354823.2"></a></div>
